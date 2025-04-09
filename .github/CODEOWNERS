@@ -1,0 +1,21 @@
+# Owners for the entire repository
+* @DaveSummer36 @team-leads
+
+# Owners for specific directories
+docs/* @docs-team
+src/* @dev-team
+tests/* @qa-team
+
+# Owners for specific files
+README.md @DaveSummer36
+.github/workflows/* @ci-cd-team
+
+# Owners for specific file types
+*.md @docs-team
+*.js @backend-team
+*.tsx @frontend-team
+
+# Owners for specific files within a directory
+src/components/* @frontend-team
+src/modules @team-leads
+src/server/* @backend-team
